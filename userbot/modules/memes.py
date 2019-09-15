@@ -36,13 +36,13 @@ METOOSTR = [
     "`Same pinch bsdk`",
 ]
 NOOBSTR = [
-    "`YOU PRO NIMBA DONT MESS WIDH MEH`",
+    "`YOU PRO NIBBA DONT MESS WITH ME`",
     "`Haha yes`",
-    "`NOOB NIMBA TRYING TO BE FAMOUS KEK`",
+    "`NOOB NIMBA TRYING TO BE FAMOUS`",
     "`Sometimes one middle finger isn’t enough to let someone know how you feel. That’s why you have two hands`",
-    "`Some Nimbas need to open their small minds instead of their big mouths`",
-    "`UH DONT KNOW MEH SO STAY AWAY LAWDE`",
-    "`Kysa kysaaaa haaan? Phir MAAR nhi Khayega tu?`",
+    "`Some Nibbas need to open their small minds instead of their big mouths`",
+    "`UH DONT KNOW MEH SO STAY AWAY`",
+    "`Kysa kyaaaa haaan? Phir MAAR nhi Khayega tu?`",
     "`Zikr Jinka hota hai galiyo meh woh bhosdika ajj paya gya naliyo me`",
 ]
 ZALG_LIST = [["̖",
@@ -397,16 +397,16 @@ ABUSE_STRINGS = [
            "`Chudakkad Raand Ki Ch**T Mein Pele L*Nd Kabeer, Par Aisa Bhi Kya Choda Ki Ban Gaye Fakeer`",
 ]
 GEY_STRINGS = [
-     "`you gey bsdk`",
-     "`you gey`",
-     "`you gey in the house`",
+     "`you gay bsdk`",
+     "`you gay`",
+     "`you gay in the house`",
      "`you chakka`",
      "`Bhago BC! Chakka aya`",
-     "`you gey gey gey gey gey gey gey gey`",
-     "`you gey go away`",
+     "`you gay gay gay gay gay gay gay gay`",
+     "`you gay go away`",
 ]
 PRO_STRINGS = [
-     "`This gey is pro as phack.`",
+     "`This gay is pro as phack.`",
      "`Pros here -_- Time to Leave`",
      "`Proness Lebel: 6969696969`",
      "`Itna pro banda dekhlia bc, ab to marna hoga.`",
@@ -931,7 +931,7 @@ async def hacking (hacked):
         if await hacked.get_reply_message():
             await hacked.edit(
                 "`Targeted Account Hacked successfully 😎......`\n"
-                "`Pay Rs.69,000 to` [Spyder](https://t.me/spyderzzz/) `to Remove This Hack...`\n"
+                "`Pay Rs.69 to` [cHAuHaN](https://t.me/amnd33p/) `to Remove This Hack...`\n"
             )
 			  
 @register(outgoing=True, pattern="^.kill$")
