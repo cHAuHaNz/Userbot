@@ -38,7 +38,7 @@ For setting up and configuring this userbot, you can checkout the [Wiki](https:/
 If you just want to stay in the loop about new features or
 announcements you can join the [news channel](https://t.me/PaperplaneExtended).
 
-If you find any bugs or have any suggestions then don't hesitate to [contact me](https://t.me/spyderzzz).
+If you find any bugs or have any suggestions then don't hesitate to [contact me](https://t.me/amnd33p).
 
 Please head to the wiki on instructions to setting it up!
 
