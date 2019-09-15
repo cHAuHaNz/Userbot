@@ -86,7 +86,7 @@ async def creator(e):
 @register(outgoing=True, pattern="^.readme$")
 async def reedme(e):
     if not e.text[0].isalpha() and e.text[0] not in ("/", "#", "@", "!"):
-        await e.edit("You might want to have a look at the [README.md](https://github.com/spyderzz/Userbot/blob/master/README.md) file.")
+        await e.edit("You might want to have a look at the [README.md](https://github.com/chauhanz/Userbot/blob/master/README.md) file.")
 
 #
 # Copyright (c) Gegham Zakaryan | 2019
