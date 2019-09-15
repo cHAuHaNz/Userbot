@@ -49,7 +49,7 @@ async def kbg(remob):
                 await remob.client.send_file(
                     remob.chat_id,
                     remove_bg_image,
-                    caption="Background removed By [Spyder](https://t.me/spyderzzz/) using his Gawd skills !",
+                    caption="Background removed By [cHAuHaN](https://t.me/amnd33p/) using his Gawd skills !",
                     force_document=True,
                     reply_to=message_id
                 )
