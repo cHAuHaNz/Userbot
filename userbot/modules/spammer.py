@@ -161,7 +161,7 @@ CMD_HELP.update({
 \n\n.delayspam <delay> <count> <text>\
 \nUsage: .bigspam but slower.\
 \n\n.gangsta\
-\nUsage: Gives you Gengster Feeling, btw Spyder is real Gangsta.\
+\nUsage: Gives you Gengster Feeling, btw cHAuHaN is real Gangsta.\
 \n\n.nikal\
 \nUsage: Prevents Lawda Lassun.\
 \n\n\nNOTE : I am not responsible if you get banned for spamming!"
